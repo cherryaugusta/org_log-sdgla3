@@ -31,7 +31,7 @@ org_log/
 Clone the repository and use it directly in your project:
 
 ```bash
-git clone https://github.com/your-username/org_log.git
+git clone https://github.com/cherryaugusta/org_log-sdgla3.git
 No external dependencies are required.
 ```
 Usage Example
